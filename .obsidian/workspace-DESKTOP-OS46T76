@@ -1,0 +1,110 @@
+{
+  "main": {
+    "id": "bac0d1503009074e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a739fc95b1deee10",
+        "type": "leaf",
+        "dimension": 34.285714285714285,
+        "pinned": true,
+        "state": {
+          "type": "graph",
+          "state": {},
+          "pinned": true
+        }
+      },
+      {
+        "id": "a3aa936677589abb",
+        "type": "leaf",
+        "dimension": 65.71428571428571,
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6f8b1afa48d32f3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c747c91e1d71c941",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ecac4a420bfbf08",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a9a555b736439ad8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#reported",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 215
+  },
+  "right": {
+    "id": "2f3effc26edf70a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b00f063e96ca8b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "708c24ab8e8734a9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "a739fc95b1deee10",
+  "lastOpenFiles": [
+    "Solar Cells.md",
+    "Solar Towers.md",
+    "RenewableEnergy.md",
+    "EnglischTOC.md",
+    "Renewable.md",
+    "Renewable Energies Presentation.md",
+    "Travel and transport vocab.md",
+    "Environment vocab.md",
+    "SI-Präfixe.md",
+    "Binärpräfixe.md"
+  ]
+}

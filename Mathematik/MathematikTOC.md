@@ -1,0 +1,3 @@
+#Mathematik
+# Mathematik TOC
+[[Potenzgesetze]]

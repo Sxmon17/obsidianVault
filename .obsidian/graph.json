@@ -1,0 +1,58 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#Coding",
+      "color": {
+        "a": 1,
+        "rgb": 65297
+      }
+    },
+    {
+      "query": "tag:#Englisch",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag:#Informatik",
+      "color": {
+        "a": 1,
+        "rgb": 262399
+      }
+    },
+    {
+      "query": "tag:#Mathematik",
+      "color": {
+        "a": 1,
+        "rgb": 61183
+      }
+    },
+    {
+      "query": "tag:#Geografie",
+      "color": {
+        "a": 1,
+        "rgb": 15124224
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -0.1,
+  "nodeSizeMultiplier": 1.44017094017094,
+  "lineSizeMultiplier": 2.12648504273504,
+  "collapse-forces": false,
+  "centerStrength": 0.444180522565321,
+  "repelStrength": 9.45368171021378,
+  "linkStrength": 0.66270783847981,
+  "linkDistance": 96,
+  "scale": 0.34422802419484916,
+  "close": true
+}
