@@ -2,5 +2,13 @@
   "table-editor-obsidian",
   "obsidian-admonition",
   "obsidian-mind-map",
-  "obsidian-git"
+  "obsidian-git",
+  "dataview",
+  "calendar",
+  "obsidian-reading-time",
+  "obsidian-advanced-slides",
+  "obsidian-kanban",
+  "obsidian-dictionary-plugin",
+  "markdown-prettifier",
+  "sliding-panes-obsidian"
 ]

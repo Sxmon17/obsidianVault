@@ -4,25 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "a739fc95b1deee10",
+        "id": "e2fa144e08b90931",
         "type": "leaf",
-        "dimension": 34.97224425059476,
-        "pinned": true,
-        "state": {
-          "type": "graph",
-          "state": {},
-          "pinned": true
-        }
-      },
-      {
-        "id": "a3aa936677589abb",
-        "type": "leaf",
-        "dimension": 65.02775574940523,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Geografie/Politisches System in Österreich.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -52,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#reported",
+                "query": "tag:#Geografie",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,21 +48,15 @@
                 "sortOrder": "alphabetical"
               }
             }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 286.5
-  },
-  "right": {
-    "id": "2f3effc26edf70a5",
-    "type": "split",
-    "children": [
-      {
-        "id": "6b00f063e96ca8b6",
-        "type": "tabs",
-        "children": [
+          },
+          {
+            "id": "ff4f757c464c0719",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
           {
             "id": "708c24ab8e8734a9",
             "type": "leaf",
@@ -101,10 +83,10 @@
             }
           },
           {
-            "id": "ff4f757c464c0719",
+            "id": "49f8dc035c522aea",
             "type": "leaf",
             "state": {
-              "type": "git-view",
+              "type": "starred",
               "state": {}
             }
           }
@@ -113,19 +95,54 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 286.5
   },
-  "active": "a3aa936677589abb",
+  "right": {
+    "id": "2f3effc26edf70a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c74bbe3b03b5823",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04d06ac1fb49ebea",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "21b0f29d1adee8f6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Geografie/Politisches System in Österreich.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e2fa144e08b90931",
   "lastOpenFiles": [
     "Geografie/Politisches System in Österreich.md",
-    "Geografie/Partei.md",
-    "Geografie/Nationalrat.md",
-    "Geografie/Gewaltentrennung.md",
-    "Geografie/Gesetzesantrag.md",
-    "Geografie/Bundesrat.md",
-    "Geografie/Judikative.md",
+    "Ausschusses.md",
+    "Geografie/Zweite Lesung im Nationalrat.md",
+    "Geografie/Erste Lesung im Nationalrat.md",
     "Geografie/Ausschuss.md",
-    "Solar Cells.md",
-    "Solar Towers.md"
+    "Geografie/Gesetzesantrag.md",
+    "Geografie/Beharrungsbeschluss.md",
+    "Geografie/Kundmachung im Bundesgesetzblatt.md",
+    "Geografie/Exekutive.md",
+    "Geografie/Gewaltentrennung.md"
   ]
 }

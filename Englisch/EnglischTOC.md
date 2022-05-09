@@ -15,8 +15,8 @@
 - [x] [[Environment vocab]]
 ### Writing 
 - [x] article
-- [ ] blogpost/entry
-- [ ] blog comment
+- [x] blogpost/entry
+- [x] blog comment
 - [ ] paragraphs and conjunctions
 - [ ] formal letter/email
 
