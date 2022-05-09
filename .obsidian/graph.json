@@ -11,7 +11,7 @@
       "query": "tag:#Coding",
       "color": {
         "a": 1,
-        "rgb": 65297
+        "rgb": 4390735
       }
     },
     {
@@ -41,18 +41,25 @@
         "a": 1,
         "rgb": 15124224
       }
+    },
+    {
+      "query": "tag:#Betriebswirtschaften",
+      "color": {
+        "a": 1,
+        "rgb": 1340672
+      }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
+  "textFadeMultiplier": 1.5,
   "nodeSizeMultiplier": 1.44017094017094,
   "lineSizeMultiplier": 2.12648504273504,
   "collapse-forces": false,
-  "centerStrength": 0.444180522565321,
+  "centerStrength": 0.592696629213483,
   "repelStrength": 9.45368171021378,
   "linkStrength": 0.66270783847981,
   "linkDistance": 96,
-  "scale": 0.3902793595526003,
+  "scale": 0.5471649874477558,
   "close": true
 }

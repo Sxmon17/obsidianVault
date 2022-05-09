@@ -6,6 +6,7 @@
       {
         "id": "e2fa144e08b90931",
         "type": "leaf",
+        "dimension": 41.59891598915989,
         "pinned": true,
         "state": {
           "type": "graph",
@@ -14,13 +15,14 @@
         }
       },
       {
-        "id": "054d0c52f7730fb7",
+        "id": "8c7dd72641d09b9d",
         "type": "leaf",
+        "dimension": 58.40108401084011,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Geografie/Politisches System in Österreich.md",
-            "mode": "preview",
+            "file": "Betriebswirtschaften/Betrieb.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -50,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Geografie",
+                "query": "tag:#Betriebswirtschaften",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,6 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Betriebswirtschaften/Betrieb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,6 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Betriebswirtschaften/Betrieb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,17 +144,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e2fa144e08b90931",
+  "active": "8c7dd72641d09b9d",
   "lastOpenFiles": [
-    "Geografie/Politisches System in Österreich.md",
-    "Ausschusses.md",
-    "Geografie/Zweite Lesung im Nationalrat.md",
-    "Geografie/Erste Lesung im Nationalrat.md",
-    "Geografie/Ausschuss.md",
-    "Geografie/Gesetzesantrag.md",
-    "Geografie/Beharrungsbeschluss.md",
-    "Geografie/Kundmachung im Bundesgesetzblatt.md",
-    "Geografie/Exekutive.md",
-    "Geografie/Gewaltentrennung.md"
+    "Betriebswirtschaften/Betrieb.md",
+    "Marktorientierung.md",
+    "Wirtschaftlichkeit.md",
+    "Liquidität.md",
+    "Amortisation.md",
+    "Rentabilität.md",
+    "Mathematik/MathematikTOC.md",
+    "Mathematik/Potenzgesetze.md",
+    "Betriebswirtschaften/Firma.md",
+    "Betriebswirtschaften/Unternehmen.md"
   ]
 }
