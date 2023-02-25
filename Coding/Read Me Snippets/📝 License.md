@@ -1,5 +1,4 @@
-#Coding #ReadMeSamples 
-
+#Coding #ReadMeSnippet 
 ## 📝 [[License]]
 
 Copyright © 2023 [Simon Guglberger](https://github.com/sxmon17).</br>

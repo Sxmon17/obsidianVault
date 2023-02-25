@@ -3,7 +3,7 @@
 Ein _skalarer_ Typ stellt einen einzelnen Wert dar. 
 Rust hat vier primäre skalare Typen: 
 
-* [[Integer]]
+* Integer
 * Fließkommazahlen
 * boolesche Werte (Wahrheitswerte) 
 * Zeichen

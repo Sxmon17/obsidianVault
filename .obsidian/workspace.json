@@ -8,29 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0d1f366e0b374e74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "jsuc.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1b724af01611731d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "jsuc.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -62,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#ReadMeSamples",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +67,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "jsuc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +121,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "jsuc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,25 +146,27 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "0d1f366e0b374e74",
+  "active": "1b724af01611731d",
   "lastOpenFiles": [
-    "Coding/Read Me Samples/📝 License.md",
-    "Coding/⚛️ React.md",
-    "Coding/Read Me Samples/💎Features.md",
-    "Coding/Integer.md",
-    "Coding/Datatypes.md",
-    "Coding/Read Me Samples.md",
-    "Coding/Read Me Samples",
-    "Features.md",
-    "png-texter.md",
-    "License.md",
-    "jsuc.md",
     "Coding/🦀  Rust.md",
+    "Coding/Read Me Samples/jsuc.md",
+    "Coding/Datatypes.md",
+    "Coding/Integer.md",
+    "Coding/Scalar Types.md",
+    "Coding/Read Me Samples.md",
+    "Coding/Read Me Snippets/👾 Usage.md",
+    "Coding/Read Me Snippets/📝 License.md",
+    "Coding/Read Me Snippets/💎Features.md",
+    "Features.md",
+    "Coding/Read Me Samples/png-texter.md",
+    "Coding/Read Me Samples",
+    "Coding/⚛️ React.md",
+    "Coding/Read Me Snippets",
+    "License.md",
     "Coding/Ganzzahltypen.md",
     "Englisch/EnglischTOC.md",
     "Informatik/SI-Präfixe.md",
     "Informatik/Binärpräfixe.md",
-    "Coding/Scalar Types.md",
     "Betriebswirtschaften/Wirtschaftlichkeit.md",
     "Mathematik/Potenzgesetze.md",
     "Informatik/InformatikTOC.md",
