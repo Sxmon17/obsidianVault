@@ -1,4 +1,4 @@
-#Coding #Rust
+#Coding #Rust 
 
 ## Rust-Book Writeup
 ### [[Datatypes]]

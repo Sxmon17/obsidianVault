@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scalar Types.md",
+                "file": "Coding/🦀  Rust.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4718b12447c47136",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/ReadMeSamples.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scalar Types.md",
+                "file": "Coding/ReadMeSamples.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scalar Types.md",
+                "file": "Coding/ReadMeSamples.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,15 +167,19 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "8c7dd72641d09b9d",
+  "active": "4718b12447c47136",
   "lastOpenFiles": [
     "Coding/🦀  Rust.md",
+    "Coding/ReadMeSamples.md",
+    "Coding/Scalar Types.md",
+    "Coding/Datatypes.md",
+    "Coding/Integer.md",
+    "Betriebswirtschaften/Wirtschaftlichkeit.md",
+    "Coding/Ganzzahltypen.md",
     "Mathematik/Potenzgesetze.md",
     "Informatik/SI-Präfixe.md",
     "Informatik/InformatikTOC.md",
-    "Scalar Types.md",
     "Geografie/Politisches System in Österreich.md",
-    "Datatypes.md",
     "Coding/⚛️ React.md",
     "Coding/React Components.md",
     "Geografie/Verfassung.md",
@@ -176,10 +194,6 @@
     "Mathematik/MathematikTOC.md",
     "Englisch/EnglischTOC.md",
     "Index.md",
-    "Geografie/Nationalrat.md",
-    "Betriebswirtschaften/Betrieb.md",
-    "Marktorientierung.md",
-    "Wirtschaftlichkeit.md",
-    "Liquidität.md"
+    "Geografie/Nationalrat.md"
   ]
 }
