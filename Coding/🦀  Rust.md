@@ -1,9 +1,16 @@
 #Coding #Rust 
 
-## Rust-Book Writeup
-### [[Datatypes]]
-Jeder Wert in Rust ist von einem bestimmten _Datentyp_, der Rust mitteilt, welche Art von Daten angegeben wird, damit es weiß, wie es mit diesen Daten arbeiten soll. Wir werden uns zwei Datentyp-Untermengen ansehen: Skalar ([[Scalar Types]]) und Verbund ([[Compound Types).
-#### definition
-```rust
-let guess: u32 = "42".parse().expect("Keine Zahl!");
+## Useful Snippets
+Snippets for Rust and its Frameworks
+
+### Tokio.rs
+##### Client
+```Rust
+//connect to the server with tokio  
+let mut stream = tokio::net::TcpStream::connect(CHAT_SERVER).await.unwrap();  
+  
+//create a channel to send messages to the server  
+let (mut tx, mut rx) = tokio::io::split(stream);
 ```
+
+##### Client
