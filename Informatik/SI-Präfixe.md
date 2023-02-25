@@ -1,4 +1,4 @@
-#Informatik
+#Informatik #Mathematik 
 
 # SI-Präfixe
 Symbol | Name | Wert  

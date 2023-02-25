@@ -36,10 +36,17 @@
       }
     },
     {
-      "query": "tag:",
+      "query": "tag:#Mathematik",
       "color": {
         "a": 1,
-        "rgb": 6084269
+        "rgb": 64511
+      }
+    },
+    {
+      "query": "tag:#Englisch",
+      "color": {
+        "a": 1,
+        "rgb": 1114367
       }
     }
   ],

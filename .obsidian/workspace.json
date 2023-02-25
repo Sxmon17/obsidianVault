@@ -11,8 +11,26 @@
             "id": "0d1f366e0b374e74",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "jsuc.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b724af01611731d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "jsuc.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -67,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "jsuc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "jsuc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,31 +168,31 @@
   },
   "active": "0d1f366e0b374e74",
   "lastOpenFiles": [
-    "Coding/🦀  Rust.md",
-    "Coding/ReadMeSamples.md",
+    "Coding/Read Me Samples/📝 License.md",
+    "Coding/⚛️ React.md",
+    "Coding/Read Me Samples/💎Features.md",
+    "Coding/Integer.md",
+    "Coding/Datatypes.md",
+    "Coding/Read Me Samples.md",
+    "Coding/Read Me Samples",
+    "Features.md",
     "png-texter.md",
     "License.md",
-    "Coding/Scalar Types.md",
-    "Coding/Datatypes.md",
-    "Coding/Integer.md",
-    "Betriebswirtschaften/Wirtschaftlichkeit.md",
+    "jsuc.md",
+    "Coding/🦀  Rust.md",
     "Coding/Ganzzahltypen.md",
-    "Mathematik/Potenzgesetze.md",
+    "Englisch/EnglischTOC.md",
     "Informatik/SI-Präfixe.md",
+    "Informatik/Binärpräfixe.md",
+    "Coding/Scalar Types.md",
+    "Betriebswirtschaften/Wirtschaftlichkeit.md",
+    "Mathematik/Potenzgesetze.md",
     "Informatik/InformatikTOC.md",
     "Geografie/Politisches System in Österreich.md",
-    "Coding/⚛️ React.md",
     "Coding/React Components.md",
     "Geografie/Verfassung.md",
     "Geografie/Gegenzeichnung von Kanzler.md",
     "Geografie/Erste Lesung im Nationalrat.md",
-    "Geografie/Ausschuss.md",
-    "Geografie/Beharrungsbeschluss.md",
-    "Geografie/Bundeskanzler.md",
-    "Geografie/Demokratie.md",
-    "Geografie/Gewaltentrennung.md",
-    "Geografie/Judikative.md",
-    "Mathematik/MathematikTOC.md",
-    "Englisch/EnglischTOC.md"
+    "Geografie/Ausschuss.md"
   ]
 }

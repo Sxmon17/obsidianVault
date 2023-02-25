@@ -1,4 +1,4 @@
-#Informatik
+#Informatik #Mathematik 
 
 # Binärpräfixe
 Symbol | Name | Wert  
