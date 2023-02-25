@@ -5,5 +5,6 @@
   "vimMode": false,
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "fileSortOrder": "alphabetical"
+  "fileSortOrder": "alphabetical",
+  "spellcheck": false
 }

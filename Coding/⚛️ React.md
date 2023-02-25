@@ -1,6 +1,7 @@
-#Coding
+#Coding #React 
 
 # React
+
 ## Basic concepts
 ### Components and Props
 [[React Components]]
