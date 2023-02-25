@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/🦀  Rust.md",
+                "file": "Coding/Read Me Snippets/📝 License.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/🦀  Rust.md",
+                "file": "Coding/Read Me Snippets/📝 License.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,8 +99,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding/🦀  Rust.md",
+                "file": "Coding/Read Me Snippets/📝 License.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +153,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ff4f757c464c0719",
+  "active": "1b724af01611731d",
   "lastOpenFiles": [
     "Coding/🦀  Rust.md",
     "Coding/Read Me Samples/jsuc.md",
