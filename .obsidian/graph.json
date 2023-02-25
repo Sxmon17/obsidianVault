@@ -1,9 +1,9 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": true,
   "showAttachments": true,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
@@ -11,55 +11,48 @@
       "query": "tag:#Coding",
       "color": {
         "a": 1,
-        "rgb": 4390735
+        "rgb": 11010202
       }
     },
     {
-      "query": "tag:#Englisch",
+      "query": "tag:#Rust",
       "color": {
         "a": 1,
-        "rgb": 16711680
-      }
-    },
-    {
-      "query": "tag:#Informatik",
-      "color": {
-        "a": 1,
-        "rgb": 262399
-      }
-    },
-    {
-      "query": "tag:#Mathematik",
-      "color": {
-        "a": 1,
-        "rgb": 61183
-      }
-    },
-    {
-      "query": "tag:#Geografie",
-      "color": {
-        "a": 1,
-        "rgb": 15124224
+        "rgb": 16743168
       }
     },
     {
       "query": "tag:#Betriebswirtschaften",
       "color": {
         "a": 1,
-        "rgb": 1340672
+        "rgb": 12710495
+      }
+    },
+    {
+      "query": "tag:#Geografie",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    },
+    {
+      "query": "tag:",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 1.5,
-  "nodeSizeMultiplier": 1.36607259114583,
-  "lineSizeMultiplier": 2.12648504273504,
+  "textFadeMultiplier": 0.6,
+  "nodeSizeMultiplier": 3.23896455715253,
+  "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.586507161458333,
-  "repelStrength": 9.1259765625,
-  "linkStrength": 1,
-  "linkDistance": 156,
-  "scale": 0.20732531977795202,
-  "close": true
+  "centerStrength": 0.240875912408759,
+  "repelStrength": 20,
+  "linkStrength": 0.693581157348183,
+  "linkDistance": 250,
+  "scale": 0.08178090377642143,
+  "close": false
 }
