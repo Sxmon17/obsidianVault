@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Read Me Snippets/📝 License.md",
-                "mode": "source",
+                "file": "Coding/🦀  Rust.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Read Me Snippets/📝 License.md",
+                "file": "Coding/🦀  Rust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding/Read Me Snippets/📝 License.md",
+                "file": "Coding/🦀  Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,17 +155,18 @@
   },
   "active": "1b724af01611731d",
   "lastOpenFiles": [
+    "Coding/React Components.md",
+    "Coding/Read Me Samples/png-texter.md",
+    "Coding/Read Me Snippets/👾 Usage.md",
+    "Coding/Read Me Snippets/💎Features.md",
+    "Coding/Read Me Snippets/📝 License.md",
     "Coding/🦀  Rust.md",
     "Coding/Read Me Samples/jsuc.md",
     "Coding/Datatypes.md",
     "Coding/Integer.md",
     "Coding/Scalar Types.md",
     "Coding/Read Me Samples.md",
-    "Coding/Read Me Snippets/👾 Usage.md",
-    "Coding/Read Me Snippets/📝 License.md",
-    "Coding/Read Me Snippets/💎Features.md",
     "Features.md",
-    "Coding/Read Me Samples/png-texter.md",
     "Coding/Read Me Samples",
     "Coding/⚛️ React.md",
     "Coding/Read Me Snippets",
@@ -178,7 +179,6 @@
     "Mathematik/Potenzgesetze.md",
     "Informatik/InformatikTOC.md",
     "Geografie/Politisches System in Österreich.md",
-    "Coding/React Components.md",
     "Geografie/Verfassung.md",
     "Geografie/Gegenzeichnung von Kanzler.md",
     "Geografie/Erste Lesung im Nationalrat.md",
