@@ -27,7 +27,7 @@
               "type": "markdown",
               "state": {
                 "file": "Coding/Read Me Samples/png-texter.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Read Me Snippets/👾 Usage.md",
+                "file": "Coding/Read Me Samples/png-texter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding/Read Me Snippets/👾 Usage.md",
+                "file": "Coding/Read Me Samples/png-texter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,38 +162,22 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "2ecac4a420bfbf08",
+  "active": "ca25233bcd3a1cca",
   "lastOpenFiles": [
+    "Coding/Read Me Snippets/👾 Usage.md",
     "Coding/Read Me Snippets/📝 License.md",
     "Coding/Read Me Snippets/💎Features.md",
-    "Coding/Read Me Snippets/👾 Usage.md",
     "Coding/⚛️ React.md",
     "Coding/Read Me Samples/rum.md",
     "Coding/Read Me Samples/png-texter.md",
     "Coding/🦀  Rust.md",
     "Coding/React Components.md",
     "Coding/Read Me Samples/jsuc.md",
-    "Coding/Datatypes.md",
-    "Coding/Integer.md",
-    "Coding/Scalar Types.md",
-    "Coding/Read Me Samples.md",
-    "Features.md",
-    "Coding/Read Me Samples",
-    "Coding/Read Me Snippets",
-    "License.md",
-    "Coding/Ganzzahltypen.md",
-    "Englisch/EnglischTOC.md",
-    "Informatik/SI-Präfixe.md",
-    "Informatik/Binärpräfixe.md",
-    "Betriebswirtschaften/Wirtschaftlichkeit.md",
-    "Mathematik/Potenzgesetze.md",
-    "Informatik/InformatikTOC.md",
-    "Geografie/Politisches System in Österreich.md",
-    "Geografie/Verfassung.md",
-    "Geografie/Gegenzeichnung von Kanzler.md",
-    "Geografie/Erste Lesung im Nationalrat.md"
+    "Coding/Datatypes.md"
   ]
 }

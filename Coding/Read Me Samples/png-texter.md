@@ -7,7 +7,6 @@ A CLI tool to hide encrypted messages in a .png file written in [[Rust]]
 - [x] Png chunk editor
 - [x] Url as input source
 - [x] Custom chunk type (password to decode)
-- [x] Rich and colorful Cli
 - [ ] Gui
 - [ ] Web Interface
 - [ ] Chunk Viewer
