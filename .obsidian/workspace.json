@@ -45,9 +45,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "707ba3517dac9b92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Read Me Snippets/📝 License.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -180,11 +193,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "82ab6ac52845cda3",
+  "active": "707ba3517dac9b92",
   "lastOpenFiles": [
-    "Coding/Read Me Snippets/👾 Usage.md",
     "Coding/Read Me Snippets/📝 License.md",
     "Coding/Read Me Snippets/💎Features.md",
+    "Coding/Read Me Snippets/👾 Usage.md",
     "Coding/⚛️ React.md",
     "Coding/Read Me Samples/rum.md",
     "Coding/Read Me Samples/png-texter.md",
